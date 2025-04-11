@@ -234,6 +234,29 @@ Fast-forward
  portugol.por | 6 +++---
  1 file changed, 3 insertions(+), 3 deletions(-)
 
+ compuni@Lab6m40 MINGW64 ~/eron-final (main)
+$ git add .
+
+compuni@Lab6m40 MINGW64 ~/eron-final (main)
+$ git commit -m "Alteração do readme"
+[main 5b51a29] Alteração do readme
+ 1 file changed, 373 insertions(+), 1 deletion(-)
+
+compuni@Lab6m40 MINGW64 ~/eron-final (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 3.08 KiB | 630.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To github.com:Davidayz/eron-final.git
+   038f751..5b51a29  main -> main
+
+compuni@Lab6m40 MINGW64 ~/eron-final (main)
+$
+
+
 ### Comandos de Arthur
 daisu@Notebook MINGW64 ~
 $ git config
